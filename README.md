@@ -1,0 +1,2 @@
+# NLP_project
+本專案透過nlp的技術分析mbti人格，意即藉由社群網路上的description或是使用者的發文內容，可以透過本專案的模型進行mbti人格分析。
